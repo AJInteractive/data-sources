@@ -1,4 +1,4 @@
-# data-sources
+# Data sources
 * https://github.com/caesar0301/awesome-public-datasets#agriculture
 * https://www.data.gov/
 * http://www.census.gov/data.html
